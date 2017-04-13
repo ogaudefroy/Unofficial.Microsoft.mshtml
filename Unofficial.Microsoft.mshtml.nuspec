@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Unofficial.Microsoft.mshtml</id>
+    <version>7.0.3300.0</version>
+    <authors>Microsoft</authors>
+    <owners>Olivier GAUDEFROY</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/ogaudefroy/Unofficial.Microsoft.mshtml</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Unofficial package containing Microsoft.mshtml.dll file from Microsoft.</description>
+    <copyright>Microsoft Corp. All rights reserved.</copyright>
+    <tags>MSHTML Microsoft</tags>
+  </metadata>
+  <files>
+    <file src="lib/net40/Microsoft.mshtml.dll" target="lib/net40" />
+  </files>
+</package>
