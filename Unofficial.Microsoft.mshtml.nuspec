@@ -5,7 +5,7 @@
     <version>7.0.3300.0</version>
     <authors>Microsoft</authors>
     <owners>Olivier GAUDEFROY</owners>
-    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <license type="expression">MIT</license>
     <projectUrl>https://github.com/ogaudefroy/Unofficial.Microsoft.mshtml</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Unofficial package containing Microsoft.mshtml.dll file from Microsoft.</description>
